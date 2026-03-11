@@ -67,9 +67,9 @@
             **Ex completo:**
             
             ```
-            Feature: Login de usuário
+            Funcionalidade: Login de usuário
             
-              Scenario: Bloqueio após três tentativas inválidas
+              Cenário: Bloqueio após três tentativas inválidas
                 Dado que o usuário possui cadastro ativo
                 E já realizou duas tentativas inválidas
                 Quando ele informa uma senha incorreta novamente
@@ -97,4 +97,5 @@
             
 
             **Ex:** o step `When ele informa senha incorreta` é associado a um método automatizado que executa a ação no sistema via Selenium, Cypress ou outra ferramenta.
+
 
