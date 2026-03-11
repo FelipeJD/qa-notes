@@ -8,7 +8,7 @@ Arquivos disponíveis até então:
 
 - [Conceitos de Testes de Software](QAZANDO/conceitos_de_testes_de_software_notas.md)
 - [Aprenda a Utilizar o Gherkin](QAZANDO/gherkin_notas.md)
-- [Ferramentas de Teste](QAZANDO/ferramentas_de_testes_notas.md)
+- [Ferramentas de Testes](QAZANDO/ferramentas_de_testes_notas.md)
 
 ---
 
