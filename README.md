@@ -6,9 +6,9 @@ Repositório com anotações e insights produzidos durante meus estudos em **Qua
 
 Arquivos disponíveis até então:
 
-- [Conceitos de Testes de Software]()
-- [Aprenda a Utilizar o Gherkin]()
-- [Ferramentas de Teste]()
+- [Conceitos de Testes de Software](conceitos_de_testes_de_software_qazando_notas)
+- [Aprenda a Utilizar o Gherkin](gherkin_notas)
+- [Ferramentas de Teste](ferramentas_de_testes_notas)
 
 ---
 
