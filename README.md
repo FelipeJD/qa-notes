@@ -28,7 +28,7 @@ Alguns dos tópicos estudados neste repositório incluem:
 
 # Objetivo
 
-Este repositório faz parte do meu processo de desenvolvimento profissional na área de **Quality Assurance**, servindo como:
+Este repositório faz parte do meu processo de desenvolvimento profissional na área de QA, servindo como:
 
 - material de revisão
 - registro de aprendizado
@@ -37,6 +37,4 @@ Este repositório faz parte do meu processo de desenvolvimento profissional na �
 
 ---
 
-# Observação
-
-As anotações foram produzidas durante cursos e estudos pessoais, podendo ser expandidas ou atualizadas conforme novos conteúdos são aprendidos.
+**Observação:** as anotações foram produzidas durante cursos e estudos pessoais, podendo ser expandidas ou atualizadas conforme novos conteúdos são aprendidos.
