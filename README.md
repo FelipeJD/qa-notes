@@ -2,15 +2,12 @@
 
 Repositório com anotações e insights produzidos durante meus estudos em **Qualidade de Software**.
 
-O objetivo é consolidar conhecimento adquirido em cursos, documentar conceitos importantes e criar um material de consulta rápida para temas relacionados a testes de software.
-
 ---
 
 Arquivos disponíveis até então:
 
 - [Conceitos de Testes de Software]()
-- [Níveis, Tipos e Técnicas de Teste]()
-- [Gherkin, BDD e Cucumber]()
+- [Aprenda a Utilizar o Gherkin]()
 - [Ferramentas de Teste]()
 
 ---
