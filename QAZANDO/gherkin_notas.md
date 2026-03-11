@@ -86,15 +86,15 @@
             
             **Ex:**
             
-            ```
-            Scenario: Bloqueio após três tentativas inválidas
-              Given que o usuário possui cadastro ativo
-              And já realizou duas tentativas inválidas
-              When ele informa senha incorreta novamente
-              Then o sistema deve bloquear o usuário por 15 minutos
-            ```
+        ```
+        Cenário: Login com credenciais válidas
+          Dado que o usuário está na tela de login
+          Quando ele informa e-mail e senha válidos
+          Então o sistema deve permitir o acesso ao painel principal
+        ```
             
         - **Cucumber:** framework de automação que interpreta arquivos escritos em Gherkin e conecta cada step a métodos implementados na linguagem de programação escolhida (Java, JavaScript, etc.), tornando os cenários executáveis. Faz a ponte entre linguagem de negócio (Gherkin) e código de automação (Step Definitions). Sem implementação dos steps, o cenário não executa.
             
 
             **Ex:** o step `When ele informa senha incorreta` é associado a um método automatizado que executa a ação no sistema via Selenium, Cypress ou outra ferramenta.
+
